@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    text-align: center;
 }
 
 div {
@@ -24,4 +25,8 @@ div {
 
 h1 {
     margin-top: 0;
+}
+
+span {
+    text-decoration: underline;
 }
