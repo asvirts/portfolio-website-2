@@ -31,12 +31,8 @@ body {
 
 #top-container {
     background-color: #e0ebe8;
-    padding-top: 8%;
+    padding-top: 5%;
     position: relative;
-}
-
-nav {
-
 }
 
 h1 {
@@ -44,6 +40,12 @@ h1 {
     font-family: 'pacifico';
     font-size: 600%;
     margin-bottom: 0;
+}
+
+img {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    border: 0 0 0 0;
 }
 
 p {
@@ -70,10 +72,24 @@ p {
 
 .right-cloud {
     position: absolute;
-    right: 30%;
+    right: 28%;
     top: 28%;
 }
 
 .separator {
     color: #8d6c9f;
+}
+
+.float-left {
+    display: inline-block;
+    font-family: 'open-sans';
+    font-size: 115%;
+    margin-right: 30%;
+}
+
+.float-right {
+    display: inline-block;
+    font-family: 'open-sans';
+    font-size: 115%;
+    position: fixed;
 }
