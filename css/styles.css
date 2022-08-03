@@ -1,22 +1,6 @@
-
-@font-face {
-    font-family: 'open-sans';
-    src: url(../fonts/OpenSans-Regular.ttf);
-}
-
-@font-face {
-    font-family: 'open-sans-italic';
-    src: url(../fonts/OpenSans-Italic.ttf);
-}
-
-@font-face {
-    font-family: 'pacifico';
-    src: url(../fonts/Pacifico-Regular.ttf);
-}
-
 a {
     color: white;
-    font-family: 'open-sans';
+    font-family: 'Open Sans', sans-serif;
     text-decoration: none;
 }
 
@@ -37,7 +21,7 @@ body {
 
 h1 {
     color: white;
-    font-family: 'pacifico';
+    font-family: 'Pacifico';
     font-size: 600%;
     margin-bottom: 0;
 }
@@ -54,7 +38,7 @@ img.hidden-mtn {
 
 p {
     color: white;
-    font-family: 'open-sans-italic';
+    font-family: 'Open Sans', sans-serif;;
     font-size: 150%;
     margin: 0;
 }
@@ -62,7 +46,7 @@ p {
 .page-header {
     background-color: #e0ebe8;
     padding: 2%;
-    font-family: 'open-sans';
+    font-family: 'Open Sans', sans-serif;
     font-size: 115%;
     font-weight: 600;
     margin: 0 0 0 35%;
