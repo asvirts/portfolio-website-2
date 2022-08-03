@@ -1,6 +1,8 @@
 a {
     color: white;
     font-family: 'Open Sans', sans-serif;
+    font-size: 125%;
+    font-weight: 600;
     text-decoration: none;
 }
 
@@ -11,6 +13,10 @@ a:hover {
 body {
     background-color: #e0ebe8;
     text-align: center;
+}
+
+.nav-menu {
+    padding-top: 1.5%;
 }
 
 .top-container {
@@ -29,10 +35,17 @@ body {
 
 h1 {
     color: white;
-    font-family: 'Pacifico';
     font-size: 600%;
     margin-bottom: 0;
     text-shadow: 1px 1px black;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #c2cde7;
+    border-width: 5px;
+    width: 75px;
 }
 
 img {
@@ -75,4 +88,7 @@ p {
 
 .separator {
     color: #8d6c9f;
+    font-size: 125%;
+    font-weight: 600;
+    text-decoration: none;
 }
