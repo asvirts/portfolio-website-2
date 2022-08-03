@@ -14,13 +14,19 @@
     src: url(../fonts/Pacifico-Regular.ttf);
 }
 
+a {
+    color: white;
+    font-family: 'open-sans';
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c2cde7;
+}
+
 body {
     background-color: #e0ebe8;
     text-align: center;
-}
-
-div {
-    background-color: #e0ebe8;
 }
 
 #top-container {
@@ -29,8 +35,8 @@ div {
     position: relative;
 }
 
-header {
-    position: fixed;
+nav {
+
 }
 
 h1 {
@@ -47,6 +53,15 @@ p {
     margin: 0;
 }
 
+.page-header {
+    background-color: #e0ebe8;
+    padding: 2%;
+    font-family: 'open-sans';
+    font-size: 115%;
+    font-weight: 600;
+    margin: 0 0 0 35%;
+  }
+
 .left-cloud {
     position: absolute;
     left: 33%;
@@ -57,4 +72,8 @@ p {
     position: absolute;
     right: 30%;
     top: 28%;
+}
+
+.separator {
+    color: #8d6c9f;
 }
