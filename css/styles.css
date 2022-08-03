@@ -13,10 +13,18 @@ body {
     text-align: center;
 }
 
-#top-container {
+.top-container {
     background-color: #e0ebe8;
     padding-top: 5%;
     position: relative;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
 }
 
 h1 {
@@ -24,6 +32,7 @@ h1 {
     font-family: 'Pacifico';
     font-size: 600%;
     margin-bottom: 0;
+    text-shadow: 1px 1px black;
 }
 
 img {
