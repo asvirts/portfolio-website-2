@@ -42,7 +42,7 @@ h1 {
 }
 
 h2 {
-    color: white;
+    color: #8d6c9f;
     font-family: 'Open Sans', sans-serif;
     font-size: 2em;
     margin-bottom: 0;
@@ -126,6 +126,10 @@ p {
     position: absolute;
     right: 28%;
     top: 28%;
+}
+
+.skill-icon {
+    margin-top: 3em;
 }
 
 .separator {
