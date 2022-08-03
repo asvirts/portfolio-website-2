@@ -1,3 +1,19 @@
+
+@font-face {
+    font-family: 'open-sans';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'open-sans-italic';
+    src: url(../fonts/OpenSans-Italic.ttf);
+}
+
+@font-face {
+    font-family: 'pacifico';
+    src: url(../fonts/Pacifico-Regular.ttf);
+}
+
 body {
     color: #e0ebe8;
     margin: 0;
@@ -8,11 +24,9 @@ div {
     background-color: #E4F9F5;
 }
 
-@import url(//fonts.googleapis.com/css?family=Open+Sans);
-
 #top-container {
     background-color: #e0ebe8;
-    padding-top: 10%;
+    padding-top: 8%;
     position: relative;
 }
 
@@ -30,12 +44,13 @@ div {
 
 h1 {
     color: white;
-    font-size: 300%;
+    font-family: 'pacifico';
+    font-size: 600%;
 }
 
 p {
     color: white;
-    font-family: 'Open Sans';
+    font-family: 'open-sans-italic';
     font-size: 150%;
     margin: 0;
 }
@@ -46,12 +61,12 @@ span {
 
 .left-cloud {
     position: absolute;
-    left: 35%;
-    bottom: 40%;
+    left: 33%;
+    bottom: 35%;
 }
 
 .right-cloud {
     position: absolute;
-    right: 34%;
+    right: 30%;
     top: 28%;
 }
