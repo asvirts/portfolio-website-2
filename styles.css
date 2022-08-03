@@ -1,0 +1,47 @@
+/* BODY ELEMENTS */
+
+body {
+    background-color: #F1F1F1;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #E2DCC8;
+    border-width: 5px;
+    width: 75px;
+}
+
+/* IMAGES */
+
+img {
+    border-radius: 50%;
+    height: auto;
+    width: 75%;
+}
+
+/* TEXT */
+
+a {
+    color: #928779;
+}
+a:hover {
+    color: #0F3D3E;
+}
+h1,
+h3 {
+    color: #0F3D3E;
+}
+p {
+    color: #100F0F;
+}
+table {
+    color: #100F0F;
+    border-spacing: 10px;
+}
+th {
+    color: #0F3D3E;
+}
+ul {
+    color: #100F0F;
+}
