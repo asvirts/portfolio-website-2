@@ -62,11 +62,27 @@ h4 {
     margin-bottom: 0;
 }
 
+h4.title {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.25em;
+    font-weight: 500;
+    margin: 0 0 0 0;
+}
+
+h5 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    margin-bottom: 0;
+}
+
 hr {
+    border-color: #c2cde7;
     border-style: none;
     border-top-style: dotted;
-    border-color: #c2cde7;
     border-width: 5px;
+    margin: 4em auto 4em auto;
     width: 75px;
 }
 
@@ -95,6 +111,10 @@ p {
     font-weight: 600;
     margin: 0 0 0 35%;
   }
+
+.profile {
+
+}
 
 .left-cloud {
     position: absolute;
