@@ -96,8 +96,9 @@ img {
     border: 0 0 0 0;
 }
 
-img.hidden-mtn {
-    size: 5%;
+img.profile-pic {
+    height: auto;
+    width: 20em;
 }
 
 p {
