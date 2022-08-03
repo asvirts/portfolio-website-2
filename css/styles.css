@@ -15,31 +15,18 @@
 }
 
 body {
-    color: #e0ebe8;
-    margin: 0;
+    background-color: #e0ebe8;
     text-align: center;
 }
 
 div {
-    background-color: #E4F9F5;
+    background-color: #e0ebe8;
 }
 
 #top-container {
     background-color: #e0ebe8;
     padding-top: 8%;
     position: relative;
-}
-
-#mid-container {
-    background-color: blue;
-    height: 200px;
-    width: 200px;
-}
-
-#bot-container {
-    background-color: green;
-    height: 200px;
-    width: 200px;
 }
 
 h1 {
@@ -53,10 +40,6 @@ p {
     font-family: 'open-sans-italic';
     font-size: 150%;
     margin: 0;
-}
-
-span {
-    text-decoration: underline;
 }
 
 .left-cloud {
