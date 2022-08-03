@@ -8,6 +8,11 @@ div {
     background-color: #E4F9F5;
 }
 
+@font-face {
+    font-family: 'brandon-grotesque';
+    src: url('fonts\Brandon-Grotesque-Font-Family\brandon-grotesque-regular-italic-58a8a456c4724.otf');
+  }
+
 #top-container {
     background-color: #e0ebe8;
     padding-top: 10%;
