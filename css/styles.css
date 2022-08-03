@@ -48,6 +48,10 @@ img {
     border: 0 0 0 0;
 }
 
+img.hidden-mtn {
+    size: 5%;
+}
+
 p {
     color: white;
     font-family: 'open-sans-italic';
@@ -78,18 +82,4 @@ p {
 
 .separator {
     color: #8d6c9f;
-}
-
-.float-left {
-    display: inline-block;
-    font-family: 'open-sans';
-    font-size: 115%;
-    margin-right: 30%;
-}
-
-.float-right {
-    display: inline-block;
-    font-family: 'open-sans';
-    font-size: 115%;
-    position: fixed;
 }
