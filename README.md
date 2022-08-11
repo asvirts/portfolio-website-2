@@ -1,5 +1,5 @@
 # portfolioWebsite
 
-This is the code for my personal portoflio website.
+This is the code for my (old) portoflio website.
 
-You can visit my website at https://virts.dev
+Live preview: https://asvirts.github.io/portfolio-website-2/
